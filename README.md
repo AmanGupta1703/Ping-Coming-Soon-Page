@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/AmanGupta1703/Ping-Coming-Soon-Page)
-- Live Site URL: [Add live site URL here](https://amangupta1703.github.io/Ping-Coming-Soon-Page/)
+- Solution URL: (https://github.com/AmanGupta1703/Ping-Coming-Soon-Page)
+- Live Site URL: (https://amangupta1703.github.io/Ping-Coming-Soon-Page/)
 
 ## My process
 
